@@ -14,6 +14,7 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring)
 ![Java EE](https://img.shields.io/badge/-Java%20EE-0052CC?style=flat)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ---
 
