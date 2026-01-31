@@ -1,9 +1,9 @@
 # Olá, eu sou Bruno G. Faria 👋
 
 > Desenvolvedor full-stack — trabalho com servidores SA-MP, APIs e front-end. Stack frequente: Pawn Script, TypeScript, JavaScript, PHP (Laravel e Vanilla), React e Java (Spring Boot / Java EE )
+---
 > Administrador do maior portal de SA-MP da América Latina (portalsamp.com)
 ---
-
 ## 🛠 Tecnologias e Skills
 ![Pawn Script](https://img.shields.io/badge/-Pawn%20Script-4B0082?style=flat)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
@@ -33,7 +33,7 @@
 
 ## 🔭 Atualmente
 
-- Trabalhando em: projeto final de faculdade — **aluggô**
+- Trabalhando em: projeto final de faculdade — **Aluggo** (Disponível em: aluggo.ct.ws)
 - Curso: Aluno de Sistemas no Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (CEFET/RJ)
 - Interessado em: APIs, infra, e projetos open-source
 
