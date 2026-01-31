@@ -1,7 +1,7 @@
 # Olá, eu sou Bruno G. Faria 👋
 
 > Desenvolvedor full-stack — trabalho com servidores SA-MP, APIs e front-end. Stack frequente: Pawn Script, TypeScript, JavaScript, PHP (Laravel e Vanilla), React e Java (Spring Boot / Java EE )
-
+> Administrador do maior portal de SA-MP da América Latina (portalsamp.com)
 ---
 
 ## 🛠 Tecnologias e Skills
