@@ -20,15 +20,11 @@
 
 ## 📈 Minhas estatísticas no GitHub
 
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=xBruno1000x&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xBruno1000x&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+[![GitHub Streak](https://github-streak-stats-ruby.vercel.app/?user=xbruno1000x&theme=default&hide_border=false&border_radius=4.5&locale=pt_BR&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false)](https://nice-readme.vercel.app/streak-stats)
 
-<p align="center">
-	<img src="https://github-profile-trophy.vercel.app/?username=xBruno1000x&theme=radical&margin-w=15&margin-h=15" alt="Trophies"/>
-</p>
+[![GitHub Stats](https://helio-github-stats.vercel.app/api?username=xbruno1000x&custom_title=GitHub+Stats&theme=default&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=false&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://nice-readme.vercel.app/github-stats)
 
+[![Linguagens mais usadas](https://helio-github-stats.vercel.app/api/top-langs?username=xbruno1000x&layout=normal&stats_format=percentages&theme=default&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas)](https://nice-readme.vercel.app/top-langs)
 ---
 
 ## 🔭 Atualmente
