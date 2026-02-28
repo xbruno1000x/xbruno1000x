@@ -29,7 +29,6 @@
 <img height="180em" src="https://helio-github-stats.vercel.app/api/top-langs?username=xbruno1000x&layout=compact&stats_format=percentages&theme=default&hide_border=false&border_radius=4.5&locale=pt-br&custom_title=Linguagens+mais+usadas" />
 
 </div>
----
 
 ## 🔭 Atualmente
 
